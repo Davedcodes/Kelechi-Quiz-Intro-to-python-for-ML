@@ -1,2 +1,2 @@
-# Kelechi-Quiz-Intro-to-python-for-ML
-The code for the Stage A hamoye quiz
+HAMOYE QUIZ
+These are codes for the hamoye quizzes
